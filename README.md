@@ -19,26 +19,9 @@ Technologies
     PostgreSQL
     Docker
 
-Setup
 
-    Clone the repository:
-
-    bash	git clone https://github.com/your-username/customer-api.git
-
-Navigate to the project directory:
-
-bash	cd customer-api
-
-Build the application:
-
-bash	mvn clean install
-
-Run the application:
-
-bash	mvn spring-boot:run
-
-    Access the API:
-    The application will be running on http://localhost:8080.
+Access the API:
+The application will be running on http://localhost:8080.
 
 Usage
 
